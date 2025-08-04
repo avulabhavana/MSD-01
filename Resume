@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Avula Bhavana Naidu - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+    }
+
+    .resume {
+      background: #fff;
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    .section {
+      margin-bottom: 25px;
+    }
+
+    .section h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+      font-size: 20px;
+    }
+
+    .info {
+      margin-bottom: 10px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
+
+    .contact {
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="resume">
+    <h1>Avula Bhavana Naidu</h1>
+    <p class="contact">
+      Email: bhavana.naidu@example.com<br>
+      Phone: +91-XXXXXXXXXX<br>
+      Location: Vignan University, Andhra Pradesh, India
+    </p>
+
+    <div class="section">
+      <h2>Objective</h2>
+      <p>To obtain an internship or entry-level position where I can apply my academic knowledge and enhance my skills in a dynamic and challenging environment.</p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p><strong>Vignan's Foundation for Science, Technology and Research</strong><br>
+        B.Tech – 3rd Year<br>
+      <br>
+        
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>C, C++, Python (basic)</li>
+        <li>HTML, CSS</li>
+        <li>Problem-solving</li>
+        <li>Teamwork and Communication</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Projects</h2>
+      <ul>
+        <li><strong>Mini Project Name</strong> – Short description about what it does and your role.</li>
+        <li><strong>Web Design Practice</strong> – Created simple static web pages using HTML and CSS.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Achievements</h2>
+      <ul>
+        <li>Participated in Hackathons</li>
+        <li>Won 2nd place in coding contest at college fest</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Languages</h2>
+      <ul>
+        <li>English</li>
+        <li>Telugu</li>
+        <li>Hindi</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Hobbies</h2>
+      <ul>
+        <li>Reading</li>
+        <li>Drawing</li>
+        <li>Listening to music</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
